@@ -29,3 +29,5 @@ In *computer/control.py* line *13* change **NORMAL** to the name of your bluetoo
 ```python
 13| if bluetooth.lookup_name( i ) == "NORMAL":
 ```
+## Issues with control
+When controling with bluetooth there is a latency between when a buttton is pressed and when it gets executed on the motors. This lag is due to the way bluetooth handles data and requests. A radio system would work far better.
