@@ -33,4 +33,4 @@ In *computer/control.py* line *13* change **NORMAL** to the name of your bluetoo
 When controling with bluetooth there is a latency between when a buttton is pressed and when it gets executed on the motors. This lag is due to the way bluetooth handles data and requests. A radio system would work far better.
 
 ## Video
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/h_rBUeYhmrg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/h_rBUeYhmrg/0.jpg)](http://www.youtube.com/watch?v=h_rBUeYhmrg)
